@@ -12,7 +12,7 @@
 ![firefox-2](https://github.com/bataak/dict-mn/blob/main/docs/images/firefox-2.png)
 
 Ийнхүү ашиглахад бэлэн боллоо.
-![firefox-3](https://github.com/bataak/dict-mn/blob/main/docs/images/firefox-3.png)
+![firefox-3](https://github.com/bataak/dict-mn/docs/images/firefox-3.png)
 
 Одоо бичих талбарт оруулсан бичвэрийн тань алдаа шалгагдах болно.
 ![firefox-4](https://github.com/bataak/dict-mn/blob/main/docs/images/firefox-4.png)
