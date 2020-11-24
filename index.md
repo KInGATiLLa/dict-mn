@@ -119,10 +119,10 @@
 
 LibreOffice 6.0 хувилбараас эхлэн хэрэглэгч тольд шинэ үндэс үгийг хувиллын хамтаар оруулах боломжтой болсон юм. Үүнийг хэрхэн хийхийг үзүүлье.
 
-1. Алдаатай үг дээр хулганынхаа баруун товчийг дарж жижиг цонхыг нээнэ. Улмаар `Spelling...` гэдгийг сонгоно.
+1. Алдаатай үг дээр хулганынхаа баруун товчийг дарж жижиг цонхыг нээнэ. Уг жижиг цонхноос `Spelling...` гэдгийг сонгоно.
 ![libreoffice-4](images/libreoffice-4.png)
 
-1. Нээгдэх жижиг цонхноос `Options...` товчийг дарж дахин жижиг цонх нээнэ
+1. Улмаар нээгдэх жижиг цонхноос `Options...` товчийг дарж дахин жижиг цонх нээнэ
 ![libreoffice-5](images/libreoffice-5.png)
 
 1. Одоо `New` товчийг дарж шинэ толь үүсгэнэ
@@ -138,12 +138,12 @@ LibreOffice 6.0 хувилбараас эхлэн хэрэглэгч тольд 
 
 ### Sublime Text код засварлагч дээр ашиглах <a name="sublime"></a>
 
-1. [sublimetext.com](https://www.sublimetext.com/) татан авч суулгана.
+1. [Sublime Text](https://www.sublimetext.com/) татан авч суулгана.
 
 1. `Command-Shift-P` (Mac OS) эсвэл `Ctrl-Shift-P` (Windows) дараад `Command Palette` нээгээд `Install Package` сонгоно.
 ![sublime-1](images/sublime-1.png)
 
-1. Хэсэг хүлээлгэсний дараа жижиг цонх дахин нээгдмэгц `mongolian dictionary` гэж бичиж толио суулгана.
+1. Хэсэг хугацааны дараа жижиг цонх дахин нээгдмэгц түүн дотор `mongolian dictionary` гэж бичиж `Enter` дараад толио суулгана.
 ![sublime-2](images/sublime-2.png)
 
 1. Ийнхүү ашиглахад бэлэн боллоо.
@@ -151,11 +151,13 @@ LibreOffice 6.0 хувилбараас эхлэн хэрэглэгч тольд 
 
 ### TeXstudio засварлагч дээр ашиглах <a name="texstudio"></a>
 
-1. TeXstudio программаа татаж аваад суулгана.
+1. [TeXstudio](https://www.texstudio.org/) программаа татаж аваад суулгана.
 
-1. Толио [эндээс](https://github.com/bataak/dict-mn/raw/main/mn_MN.zip) татаж аваад дурын газраа задална (хавтас үүсгэн).
+1. Толио [эндээс](https://github.com/bataak/dict-mn/raw/main/mn_MN.zip) татаж аваад дурын газраа шинэ хавтас үүсгэн задална.
 
-1. Программаа нээгээд `Preferences... > Language Checking` (Windows үйлдлийн систем бол `Tools > Options`) гэж ороод `Spelling Dictionary Directories:` гэдэгт задалж хуулсан хавтсаа зааж өгөөд `Default Language` гэдэгт `mn_MN` гэдгийг сонгож өгнө.
+1. Программаа нээгээд `Preferences... > Language Checking` (Mac OS) эсвэл `Tools > Options` (Windows) гэж ороод
+1. `Spelling Dictionary Directories:` гэдэгт задалж хуулсан хавтсаа зааж өгөөд
+1. `Default Language` гэдэгт `mn_MN` гэдгийг сонгож өгнө.
 ![texstudio-1](images/texstudio-1.png)
 
 1. Ийнхүү ашиглахад бэлэн болов.
