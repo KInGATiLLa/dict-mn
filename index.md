@@ -95,8 +95,16 @@ LibreOffice 6.0 хувилбараас эхлэн хэрэглэгч тольд 
 
 ### Sublime Text код засварлагч дээр ашиглах
 1. [sublimetext.com](https://www.sublimetext.com/) татан авч суулгана.
-1. `Sublime`-д зориулсан толио татаж [эндээс](https://github.com/bataak/dict-mn/raw/main/package%20-%20Sublime%20Text/Language%20-%20Mongolian.sublime-package) татаж аваарай.
-1. Хэрэв таны үйлдлийн систем `Windows` бол 
+
+1. `Command-Shift-P` (Mac OS X) эсвэл `Ctrl-Shift-P` (Windows) дараад `Command Palette` нээгээд `Install Package` сонгоно.
+![sublime-1](images/sublime-1.png)
+
+1. Хэсэг хүлээлгэсний дараа жижиг цонх дахин нээгдмэгц `mongolian dictionary` гэж бичиж толио суулгана.
+![sublime-2](images/sublime-2.png)
+
+1. Ийнхүү ашиглахад бэлэн боллоо.
+![sublime-3](images/sublime-3.png)
+
 ### Nodepad++ код засварлагч дээр ашиглах
 ### TeXstudio ЛаТеХ засварлагч дээр ашиглах
 1. TeXstudio программаа татаж аваад суулгана.
