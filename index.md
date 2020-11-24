@@ -9,7 +9,7 @@
 ![Image of firefox-1](https://github.com/bataak/dict-mn/blob/gh-pages/images/firefox-1.png)
 
 Ингэхэд хөтчийн дээд талд гарч ирэх жижиг цонхноос `Add` гэсэн товчийг дарж суулгана.
-![firefox-2](/images/firefox-2.png)
+![firefox-2](images/firefox-2.png)
 
 Ийнхүү ашиглахад бэлэн боллоо.
 ![firefox-3](https://github.com/bataak/dict-mn/blob/gh-pages/images/firefox-3.png)
