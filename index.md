@@ -58,13 +58,13 @@
 1. TeXworks
 1. WinShell
 
-Дараах зааврыг интернет хөтөч болох `Firefox`, баримт боловсруулагч `LibreOffice`, код засварлагч `Sublime Text` болон LaTeX засварлагч `TeXstudio` программуудад зориулан бичигдсэн болно.
+Дараах зааврыг интернет хөтөч болох `Firefox`, баримт боловсруулагч `LibreOffice`, код засварлагч `Sublime Text` болон LaTeX файл засварлагч `TeXstudio` программуудад зориулан бичигдсэн болно.
 
 1. [Firefox интернет хөтөч дээр ашиглах](#firefox)
 1. [LibreOffice баримт бичиг боловсруулагч дээр ашиглах](#libreoffice)
 1.    1. [LibreOffice тольд шинэ үг нэмэх](#libreoffice-dic)
 1. [Sublime Text код засварлагч дээр ашиглах](#sublime)
-1. [TeXstudio ЛаТеХ засварлагч дээр ашиглах](#texstudio)
+1. [TeXstudio засварлагч дээр ашиглах](#texstudio)
 
 ### Firefox интернет хөтөч дээр ашиглах <a name="firefox"></a>
 
@@ -147,7 +147,7 @@ LibreOffice 6.0 хувилбараас эхлэн хэрэглэгч тольд 
 1. Ийнхүү ашиглахад бэлэн боллоо.
 ![sublime-3](images/sublime-3.png)
 
-### TeXstudio ЛаТеХ засварлагч дээр ашиглах <a name="texstudio"></a>
+### TeXstudio засварлагч дээр ашиглах <a name="texstudio"></a>
 
 1. TeXstudio программаа татаж аваад суулгана.
 
