@@ -6,7 +6,7 @@
 ### Firefox интернет хөтөч дээр ашиглах
 
 [https://addons.mozilla.org/en-US/firefox/addon/dict-mn/](https://addons.mozilla.org/en-US/firefox/addon/dict-mn/) хаягаар хандахад нээгдэх хуудаснаас `+ Add to Firefox` гэсэн товчлуурыг дарж суулгах хүсэлт илгээнэ.
-![firefox-1](https://github.com/bataak/dict-mn/blob/gh-pages/images/firefox-1.png)
+![Image of firefox-1](https://github.com/bataak/dict-mn/blob/gh-pages/images/firefox-1.png)
 
 Ингэхэд хөтчийн дээд талд гарч ирэх жижиг цонхноос `Add` гэсэн товчийг дарж суулгана.
 ![firefox-2](https://github.com/bataak/dict-mn/blob/gh-pages/images/firefox-2.png)
