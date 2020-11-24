@@ -70,7 +70,7 @@
 
 ### Firefox интернет хөтөч дээр ашиглах <a name="firefox"></a>
 
-1. [firefox.com](https://firefox.com) хаягаар хандаж интернет хөтчөө татаж авч суулгана.
+1. [firefox.com](https://firefox.com) хаягаар хандаж интернет хөтчөө татан авч суулгана.
 
 1. Үүний дараа алдаа шалгах толио татаж авна. Ингэхдээ дараах 2 төрлийн аргын аль нэгийг ашиглаарай:
    1. [https://addons.mozilla.org/en-US/firefox/addon/dict-mn/](https://addons.mozilla.org/en-US/firefox/addon/dict-mn/) хаягаар хандах
@@ -100,14 +100,14 @@
 ![libreoffice-1](images/libreoffice-1.png)\
 ![libreoffice-2](images/libreoffice-2.png)
 
-1. Суулгасны дараа `Close` товчийг дараад `Restart Now` товчийг бас дарж программаа дахин эхлүүлээрэй.
+1. Суулгасны дараа `Close` товчийг дараад `Restart Now` товчийг бас дарж программаа дахин эхлүүлээрэй.\
 ![libreoffice-3](images/libreoffice-3.png)
 
 1. Ийнхүү программ дахин нээгдэх үед `Writer Document` товчийг сонгоно
 ![libreoffice-9](images/libreoffice-9.png)
 
-1. Монгол үгийн алдаа шалгагчийг үндсэн шалгагч болгохын тулд 
-   1. `LibreOffice > Preferences...` (Windows үйлдлийн систем бол `Tools > Options...`) цэсийг сонгоод 
+1. Монгол үгийн алдаа шалгагчийг үндсэн шалгагч болгохын тулд
+   1. `LibreOffice > Preferences...` (Mac OS) эсвэл `Tools > Options...` (Windows) цэсийг сонгоод 
    1. Доорх зурагт үзүүлсэнчлэн `Language Settings > Languages` гэж ороод 
    1. `Default Languages for Documents` дотор `Western: Mongolian Cyrillic` гэж сонгоод 
    1. `OK` товчийг дарна
@@ -140,7 +140,7 @@ LibreOffice 6.0 хувилбараас эхлэн хэрэглэгч тольд 
 
 1. [sublimetext.com](https://www.sublimetext.com/) татан авч суулгана.
 
-1. `Command-Shift-P` (Mac OS X) эсвэл `Ctrl-Shift-P` (Windows) дараад `Command Palette` нээгээд `Install Package` сонгоно.
+1. `Command-Shift-P` (Mac OS) эсвэл `Ctrl-Shift-P` (Windows) дараад `Command Palette` нээгээд `Install Package` сонгоно.
 ![sublime-1](images/sublime-1.png)
 
 1. Хэсэг хүлээлгэсний дараа жижиг цонх дахин нээгдмэгц `mongolian dictionary` гэж бичиж толио суулгана.
