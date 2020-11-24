@@ -20,7 +20,15 @@
 ### LibreOffice баримт бичиг боловсруулагч дээр ашиглах
 
 [https://www.libreoffice.org](https://www.libreoffice.org/download/) хаяг уруу орж программаа татаж авч суулгана. Үүний дараа [dict-mn.oxt]() файлаа татаж авна. Ийнхүү татаж авсан файл тань цэнхэр өнгийн дүрс бүхий зурагтай байвал уг файл дээрээ хоёр дарж суулгана.
-![libreoffice-1](images/firefox-4.png)
+![libreoffice-1](images/libreoffice-1.png)
+![libreoffice-2](images/libreoffice-2.png)
+
+Суулгасны дараа нээгдсэн байгаа цэсээ хаах үедээ программаа дахин эхлүүлнэ
+![libreoffice-3](images/libreoffice-3.png)
+
+Ийнхүү ашиглахад бэлэн боллоо
+![libreoffice-4](images/libreoffice-4.png)
+
 
 
 ### Sublime Text код засварлагч дээр ашиглах
