@@ -4,8 +4,13 @@
 ## Ашиглах заавар
 
 ### Firefox интернет хөтөч дээр ашиглах
+[https://firefox.com](https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com) хаягаар хандаж интернет хөтчөө татаж авч суулгана. Үүний дараа алдаа шалгах толио дараах байдлаар татаж авна:
+1. [https://addons.mozilla.org/en-US/firefox/addon/dict-mn/](https://addons.mozilla.org/en-US/firefox/addon/dict-mn/) хаягаар хандах
+1. Эсвэл хөтчийнхөө `Add-ons` цэсийг сонгоод хайх талбарт `монгол` хэмээн бичнэ
+![firefox-5](images/firefox-5.png)
+![firefox-6](images/firefox-6.png)
 
-[https://addons.mozilla.org/en-US/firefox/addon/dict-mn/](https://addons.mozilla.org/en-US/firefox/addon/dict-mn/) хаягаар хандахад нээгдэх хуудаснаас `+ Add to Firefox` гэсэн товчлуурыг дарж суулгах хүсэлт илгээнэ.
+Ийнхүү нээгдэх хуудаснаас `+ Add to Firefox` гэсэн товчлуурыг дарж суулгах хүсэлт илгээнэ.
 ![firefox-1](images/firefox-1.png)
 
 Ингэхэд хөтчийн дээд талд гарч ирэх жижиг цонхноос `Add` гэсэн товчийг дарж суулгана.
