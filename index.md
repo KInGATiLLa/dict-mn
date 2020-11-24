@@ -94,7 +94,7 @@
 
 1. [https://www.libreoffice.org](https://www.libreoffice.org/download/) хаяг уруу орж программаа татаж авч суулгана.
 
-1. Үүний дараа [dict-mn.oxt](https://github.com/bataak/dict-mn/raw/main/extension%20-%20LibreOffice/dict-mn.oxt) файлаа татаж авна.
+1. Үүний дараа [dict-mn.oxt](https://extensions.libreoffice.org/en/extensions/show/1980) файлаа татаж авна.
 
 1. Татаж авсан файлаа ажиллуулж, суулгана.
 ![libreoffice-1](images/libreoffice-1.png)\
