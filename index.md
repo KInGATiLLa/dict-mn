@@ -9,7 +9,7 @@
 ![Image of firefox-1](images/firefox-1.png)
 
 Ингэхэд хөтчийн дээд талд гарч ирэх жижиг цонхноос `Add` гэсэн товчийг дарж суулгана.
-![Image firefox-2](images/firefox-2.png)
+![Image of firefox-2](images/firefox-2.png)
 
 Ийнхүү ашиглахад бэлэн боллоо.
 ![firefox-3](images/firefox-3.png)
