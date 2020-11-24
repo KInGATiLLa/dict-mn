@@ -28,17 +28,21 @@
 
 1. [https://www.libreoffice.org](https://www.libreoffice.org/download/) хаяг уруу орж программаа татаж авч суулгана.
 1. Үүний дараа [dict-mn.oxt](https://github.com/bataak/dict-mn/raw/main/extension%20-%20LibreOffice/dict-mn.oxt) файлаа татаж авна.
-1. Татаж авсан файлаа ажиллуулна.
+1. Татаж авсан файлаа ажиллуулж, суулгана.
 ![libreoffice-1](images/libreoffice-1.png)
 ![libreoffice-2](images/libreoffice-2.png)
 
-1. Суулгасны дараа нээгдсэн байгаа цэсээ хаах үедээ программаа дахин эхлүүлэх товчийг дараарай
+1. Суулгасны дараа `Close` товчийг дараад `Restart Now` товчийг дарж программаа дахин эхлүүлээрэй.
 ![libreoffice-3](images/libreoffice-3.png)
 
-1. Одоо дахин эхлүүлэхдээ `Writer Document` товчийг сонгоно
+1. Ийнхүү программ дахин нээгдэх үед `Writer Document` товчийг сонгоно
 ![libreoffice-9](images/libreoffice-9.png)
 
-1. Монгол үгийн алдаа шалгагчийг үндсэн шалгагч болгохын тулд `LibreOffice > Preferences...` (Windows үйлдлийн систем бол `Tools > Options...`) цэсийг сонгоод `Language Settings > Languages` гэж ороод `Default Languages for Documents` дотор `Western: Mongolian Cyrillic` гэж сонгоод `OK` товчийг дарна
+1. Монгол үгийн алдаа шалгагчийг үндсэн шалгагч болгохын тулд 
+   1. `LibreOffice > Preferences...` (Windows үйлдлийн систем бол `Tools > Options...`) цэсийг сонгоод 
+   1. `Language Settings > Languages` гэж ороод 
+   1. `Default Languages for Documents` дотор `Western: Mongolian Cyrillic` гэж сонгоод 
+   1. `OK` товчийг дарна
 ![libreoffice-10](images/libreoffice-10.png)
 
 1. Ийнхүү ашиглахад бэлэн боллоо.
