@@ -2,6 +2,9 @@
 
 Энэхүү толь нь 36 мянга орчим үндэс үгтэй бөгөөд түүний 92% нь үйл үг, үлдэх хэсэг нь жинхэнэ нэр, тэмдэг нэр, оноосон нэр (газар ус, хүний нэр) болон сул үг болно. Үйл үгсийн хэв болон байдлын нөхцөлийг оролцуулаад 348,000 орчим үгсээс нийтдээ 200 сая гаруй үгийн хувилал үүсгэж байгаа юм.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R24yC6yCUxM?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Монгол үгийн алдаа шалгах толийг 2001 оноос эхлэн дараах толиудыг ашиглан хөгжүүлж ирлээ:
 1. Монгол хэлний товч тайлбар толь
 2. Монгол бичгийн хадмал толь
@@ -23,8 +26,6 @@
 ≈ ижил бичлэгтэй ондоо утгатай болон давхцаж орсон үгс
 
 Тольд зөвхөн түгээмэл ашиглагддаг гадаад (орос, хятад, төвөд, санскрит) үгсийг оруулсан болно.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R24yC6yCUxM?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. [Firefox интернет хөтөч дээр ашиглах](#firefox)
 1. [LibreOffice баримт бичиг боловсруулагч дээр ашиглах](#libreoffice)
