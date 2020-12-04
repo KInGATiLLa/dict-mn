@@ -196,3 +196,4 @@ LibreOffice 6.0 хувилбараас эхлэн хэрэглэгч тольд 
 
 1. Ийнхүү ашиглахад бэлэн болов.\
 ![texstudio-2](images/texstudio-2.png)
+<link rel="stylesheet" type="text/css" href="css/styles.css">
