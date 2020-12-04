@@ -24,6 +24,8 @@
 
 Тольд зөвхөн түгээмэл ашиглагддаг гадаад (орос, хятад, төвөд, санскрит) үгсийг оруулсан болно.
 
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/R24yC6yCUxM/0.jpg)](https://youtu.be/R24yC6yCUxM "Монгол үгийн алдаа шалгах толийг Firefox дээр ашиглах")
+
 1. [Firefox интернет хөтөч дээр ашиглах](#firefox)
 1. [LibreOffice баримт бичиг боловсруулагч дээр ашиглах](#libreoffice)
 1.    1. [LibreOffice тольд шинэ үг нэмэх](#libreoffice-dic)
