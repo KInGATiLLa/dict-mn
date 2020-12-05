@@ -126,7 +126,7 @@
 1. [https://www.libreoffice.org](https://www.libreoffice.org/download/) хаяг уруу орж программаа татаж авч суулгана.
 
 1. Үүний дараа [dict-mn.oxt](https://extensions.libreoffice.org/en/extensions/show/1980) файлаа татаж авна. Эсвэл 
-   1. LibreOffice нээгдэх цонхны зүүн доод буланд байх `Extensions` товчийг сонгоод (5-р алхамд үзүүлсэн зураг)
+   1. LibreOffice анх нээгдэх үеийн цонхны зүүн доод буланд байх `Extensions` товчийг сонгоод (5-р алхамд үзүүлсэн зураг)
    1. нээгдэх хуудаснаас `mongolian` хэмээн хайж толио татаж авна.
 
 1. Татаж авсан файлаа ажиллуулж, суулгана.\
