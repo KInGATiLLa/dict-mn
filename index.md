@@ -173,12 +173,12 @@ LibreOffice 6.0 хувилбараас эхлэн хэрэглэгч тольд 
 ### Sublime Text код засварлагч дээр ашиглах <a name="sublime"></a>
 
 1. [Sublime Text](https://www.sublimetext.com/) татан авч суулгана.
+1. `Preferences > Browse Packages` гэж сонгоод `Sublime Text Package` хавтас уруу орно
+1. Татаж авсан `Language - Mongolian.sublime-package` файлаа дээрх фолдерт хуулж тавина
+1. `View > Dictionary` гэж ороод `Language Mongolian` гэж сонгоно
+1. `View > Spell Check` сонгогдсон эсэхийг шалгаарай
+1. Ийнхүү ашиглахад бэлэн боллоо
 
-1. `Command-Shift-P` (Mac OS) эсвэл `Ctrl-Shift-P` (Windows) дараад `Command Palette` нээгээд `Install Package` сонгоно.\
-![sublime-1](images/sublime-1.png)
-
-1. Хэсэг хугацааны дараа жижиг цонх дахин нээгдмэгц түүн дотор `mongolian dictionary` гэж бичиж `Enter` дараад толио суулгана.\
-![sublime-2](images/sublime-2.png)
 
 1. Ийнхүү ашиглахад бэлэн боллоо.\
 ![sublime-3](images/sublime-3.png)
