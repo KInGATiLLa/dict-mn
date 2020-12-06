@@ -187,7 +187,6 @@ LibreOffice 6.0 хувилбараас эхлэн хэрэглэгч тольд 
 <div class="container">
 <iframe src="https://www.youtube.com/embed/la4cXN8sN7Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
 </div>&nbsp;
-
 1. [TeXstudio](https://www.texstudio.org/) программаа татаж аваад суулгана.
 
 1. Толио [эндээс](https://github.com/bataak/dict-mn/raw/main/mn_MN.zip) татаж аваад дурын газраа шинэ хавтас үүсгэн задална.
