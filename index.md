@@ -186,7 +186,7 @@ LibreOffice 6.0 хувилбараас эхлэн хэрэглэгч тольд 
 
 <div class="container">
 <iframe src="https://www.youtube.com/embed/la4cXN8sN7Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
-</div>\
+</div>
 
 1. [TeXstudio](https://www.texstudio.org/) программаа татаж аваад суулгана.
 
