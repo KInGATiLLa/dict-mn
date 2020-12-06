@@ -188,8 +188,8 @@ LibreOffice 6.0 хувилбараас эхлэн хэрэглэгч тольд 
 
 1. Толио [эндээс](https://github.com/bataak/dict-mn/raw/main/mn_MN.zip) татаж аваад дурын газраа шинэ хавтас үүсгэн задална.
 
-1. Программаа нээгээд `Preferences... > Language Checking` (Mac OS) эсвэл `Tools > Options` (Windows) гэж ороод
-1. `Spelling Dictionary Directories:` гэдэгт задалж хуулсан хавтсаа зааж өгөөд
+1. Программаа нээгээд `Preferences... > Language Checking` (Mac OS) эсвэл `Options > Configure TeXstudio > Language Checking` (Windows) гэж ороод
+1. `Spelling Dictionary Directories:` гэдэгт задалж хуулсан хавтсаа зааж өгөөд (Windows бол толио `Program Files > texstudio > dictionaries` гэсэн хавтаст хуулсан бол энэ тохиргоог хийхгүй)
 1. `Default Language` гэдэгт `mn_MN` гэдгийг сонгож өгнө.\
 ![texstudio-1](images/texstudio-1.png)
 
