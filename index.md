@@ -211,16 +211,18 @@ LibreOffice 6.0 хувилбараас эхлэн хэрэглэгч тольд 
 
 1. Толио [эндээс](https://github.com/bataak/dict-mn/raw/main/plugin%20-%20Adobe%20InDesign/mn_MN.zip) татаж авна.
 
-1. Татаж авсан zip файлаа `mn_MN` хавтаст задлаад хуулна.
+1. Татаж авсан zip файлаа `mn_MN` хавтаст задалж хуулна.
 
-1. Татаж авсан файлаа `Program Files > Adobe > Adobe InDesign 2021 > Resources > Dictionaries > LILO > Linguistics > Providers > Plugins2 > Adobe Hunspell Plugin` хавтас уруу орно.
+1. Татаж авсан файлаа `Program Files > Adobe > Adobe InDesign 2021 > Resources > Dictionaries > LILO > Linguistics > Providers > Plugins2 > AdobeHunspellPlugin` хавтас уруу орно.
 
 1. Одоо хуулагдсан `mn_MN` хавтсаа `Dictionaries` хавтаст буулгана.
 
 1. Дараа нь `Info.plist` файл нээгээд `SpellingService, HyphenationService, UserDictionaryService` хэсэг тус бүрд
+
 ```
 <string>mn_MN</string>
 ```
+
 гэсэн мөрийг нэмж оруулна.
 
 1. Программаа нээж, бичих талбар үүсгэнэ.
