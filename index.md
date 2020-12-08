@@ -33,6 +33,7 @@
 1.    1. [LibreOffice тольд шинэ үг нэмэх](#libreoffice-dic)
 1. [Sublime Text код засварлагч дээр ашиглах](#sublime)
 1. [TeXstudio засварлагч дээр ашиглах](#texstudio)
+1. [Adobe InDesign эх бэлтгэгч дээр ашиглах](#indesign)
 
 ### Тольд орсон зарим үгсийн бичлэгийн талаар
 
@@ -200,3 +201,36 @@ LibreOffice 6.0 хувилбараас эхлэн хэрэглэгч тольд 
 1. Ийнхүү ашиглахад бэлэн болов.\
 ![texstudio-2](images/texstudio-2.png)
 <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+
+### Adobe InDesign эх бэлтгэгч дээр ашиглах <a name="indesign"></a>
+
+<div class="container">
+   <iframe src="https://www.youtube.com/embed/-f5XSHouCbg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+</div>
+
+1. Толио [эндээс](https://github.com/bataak/dict-mn/raw/main/plugin%20-%20Adobe%20InDesign/mn_MN.zip) татаж авна.
+
+1. Татаж авсан zip файлаа `mn_MN` хавтаст задлаад хуулна.
+
+1. Татаж авсан файлаа `Program Files > Adobe > Adobe InDesign 2021 > Resources > Dictionaries > LILO > Linguistics > Providers > Plugins2 > Adobe Hunspell Plugin` хавтас уруу орно.
+
+1. Одоо хуулагдсан `mn_MN` хавтсаа `Dictionaries` хавтаст буулгана.
+
+1. Дараа нь `Info.plist` файл нээгээд `SpellingService, HyphenationService, UserDictionaryService` хэсэг тус бүрд
+```
+<string>mn_MN</string>
+```
+гэсэн мөрийг нэмж оруулна.
+
+1. Программаа нээж, бичих талбар үүсгэнэ.
+
+1. Ингэхэд баруун талд байрлах `Properties` цэсэнд шинээр `paragraph styles` үүсгэнэ.
+
+1. Дараа нь шинээр үүсгэсэн загварт дараах засварыг оруулна.
+
+1. Шинээр нээгдэх цонхны `Advanced Character Formats` талбарыг сонгоод `Language` хэсэгт `Mongolian` хэмээн сонгоод цонхоо хаана.
+
+1. Одоо бичвэр оруулан шалгахдаа `Dynamic Spelling` идэвхэжсэн эсэхийг шалгаарай. Ингэхийн тулд хулганынхаа баруун товчийг дараад `Spelling > Dynamic Spelling` хэсгийг идэвхжүүлнэ.
+
+1. Ийнхүү ашиглахад бэлэн боллоо.
