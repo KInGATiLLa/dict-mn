@@ -33,7 +33,7 @@
 1.    1. [LibreOffice тольд шинэ үг нэмэх](#libreoffice-dic)
 1. [Sublime Text код засварлагч дээр ашиглах](#sublime)
 1. [TeXstudio засварлагч дээр ашиглах](#texstudio)
-1. [Adobe InDesign эх бэлтгэгч дээр ашиглах](#indesign)
+1. [Adobe InDesign хэвлэлийн эх бэлтгэгч дээр ашиглах](#indesign)
 
 ### Тольд орсон зарим үгсийн бичлэгийн талаар
 
@@ -203,7 +203,7 @@ LibreOffice 6.0 хувилбараас эхлэн хэрэглэгч тольд 
 <link rel="stylesheet" type="text/css" href="css/styles.css">
 
 
-### Adobe InDesign эх бэлтгэгч дээр ашиглах <a name="indesign"></a>
+### Adobe InDesign хэвлэлийн эх бэлтгэгч дээр ашиглах <a name="indesign"></a>
 
 <div class="container">
    <iframe src="https://www.youtube.com/embed/-f5XSHouCbg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
