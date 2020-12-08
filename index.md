@@ -218,15 +218,13 @@ LibreOffice 6.0 хувилбараас эхлэн хэрэглэгч тольд 
 1. Одоо хуулагдсан `mn_MN` хавтсаа `Dictionaries` хавтаст буулгана.
 
 1. Дараа нь `Info.plist` файл нээгээд `SpellingService, HyphenationService, UserDictionaryService` хэсэг тус бүрд
-
 ```
 <string>mn_MN</string>
 ```
-
 гэсэн мөрийг нэмж оруулна.
 1. Программаа нээж, бичих талбар үүсгэнэ.
 
-1. Ингэхэд баруун талд байрлах `Properties` цэсэнд шинээр `paragraph styles` үүсгэнэ.
+1. Ингэхэд баруун талд байрлах `Properties` цэсэнд шинээр `Paragraph Styles` үүсгэнэ.
 
 1. Дараа нь шинээр үүсгэсэн загварт дараах засварыг оруулна.
 
