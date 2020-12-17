@@ -5,7 +5,6 @@
 <div class="container">
    <iframe src="https://www.youtube.com/embed/N-oRV9TlYrA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
 </div>
-
 Монгол үгийн алдаа шалгах толийг 2001 оноос эхлэн дараах толиудыг ашиглан хөгжүүлж ирлээ:
 1. Монгол хэлний товч тайлбар толь
 2. Монгол бичгийн хадмал толь
