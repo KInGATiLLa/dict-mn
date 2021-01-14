@@ -192,6 +192,10 @@ LibreOffice 6.0 хувилбараас эхлэн хэрэглэгч тольд 
 
 ### Sublime Text код засварлагч дээр ашиглах <a name="sublime"></a>
 
+<div class="container">
+   <iframe src="https://www.youtube.com/embed/FmC1Mg07TXU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+</div>
+
 1. [Sublime Text](https://www.sublimetext.com/) татан авч суулгана.
 1. `Preferences > Package Control` гэж ороод `Package Control: Install Package` гэж сонгоно.
 1. Улмаар гарч ирэх цонхонд `mongolian` гэж хайгаад `Language - Mongolian` багцыг сонгоно.
