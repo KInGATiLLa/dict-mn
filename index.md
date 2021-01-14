@@ -192,15 +192,14 @@ LibreOffice 6.0 хувилбараас эхлэн хэрэглэгч тольд 
 
 ### Sublime Text код засварлагч дээр ашиглах <a name="sublime"></a>
 
-1. [Sublime Text](https://www.sublimetext.com/) татан авч суулгана
-1. `Preferences > Browse Packages...` гэж сонгоход `Packages` хавтас уруу орох бөгөөд эндээс гараад `Installed Packages` хавтаст орно
-1. Татаж авсан `Language - Mongolian.sublime-package` файлаа дээрх хавтаст хуулж тавина
-1. `View > Dictionary` гэж ороод `Language Mongolian` гэж сонгоно
-1. `View > Spell Check` сонгогдсон эсэхийг шалгаарай
-1. Ийнхүү ашиглахад бэлэн боллоо
+1. [Sublime Text](https://www.sublimetext.com/) татан авч суулгана.
+1. `Preferences > Package Control` гэж ороод `Package Control: Install Package` гэж сонгоно.
+1. Улмаар гарч ирэх цонхонд `mongolian` гэж хайгаад `Language - Mongolian` багцыг сонгоно.
+1. `Sublime Text` программын баруун доод хэсэгт суулгаж буй мэдээлэл гарах бөгөөд монгол хэлний багцыг суулгаж дуусмагц
+1. `View > Spell Check` гэдгийг идэвхжүүлнэ.
+1. `View > Dictionary > Language - Mongolian > mn_MN` гэдгийг сонгоно.
+1. Ийнхүү ашиглахад бэлэн боллоо.
 
-
-1. Ийнхүү ашиглахад бэлэн боллоо.\
 ![sublime-3](images/sublime-3.png)
 
 ### TeXstudio засварлагч дээр ашиглах <a name="texstudio"></a>
